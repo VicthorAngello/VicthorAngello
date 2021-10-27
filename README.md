@@ -21,11 +21,11 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" height="30" width="40" src="https://kivymd.readthedocs.io/en/latest/_static/logo-kivymd.png">
-  <img align="center" height="30" width="40" src="https://dash.plotly.com/assets/images/Logo_light.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" height="90" width="90"  src="https://kivymd.readthedocs.io/en/latest/_static/logo-kivymd.png">
+  <img align="left" height="90" width="120" src="https://dash.plotly.com/assets/images/Logo_light.svg">
+  <img align="center" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
   
 ##
