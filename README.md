@@ -17,7 +17,7 @@
 <div>
   <a href="https://github.com/VicthorAngello">
   <img heigth="140em" src="https://github-readme-stats.vercel.app/api?username=victhorangello&show_icons=true&theme=monokai"/>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victhorangello&layout=compact&theme=monokai"/>
+  <img heigth="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victhorangello&layout=compact&theme=monokai"/>
 </div>
   
 <div style="display: inline_block"><br>
