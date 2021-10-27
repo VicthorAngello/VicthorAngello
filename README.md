@@ -4,14 +4,14 @@
 
 ##
 
-##Hi!! I'm Victhor Angello
+## Hi!! I'm Victhor Angello
 
 - 🔭 I’m currently working on rail transport logistic chain data analysis.
 - 🌱 I’m currently learning Data Science and Machine Learning.
 - 💬 Ask me about Python, Pandas, KivyMD, Plotly Dash.
 - 📫 How to reach me: victhorangello@gmail.com
 
-##Olá!! Eu sou Victhor Angello
+## Olá!! Eu sou Victhor Angello
 
 - 🔭 Eu atualmente trabalho na analise de dados da cadeia logistica do transporte ferroviario.
 - 🌱 Eu atualmente estou estudando Data Science and Machine Learning.
